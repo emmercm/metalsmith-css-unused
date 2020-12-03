@@ -1,7 +1,7 @@
 {
   "name": "metalsmith-css-unused",
   "version": "0.3.0",
-  "description": "A Metalsmith plugin to run UnCSS stylesheet optimizer.",
+  "description": "A Metalsmith plugin to remove unused CSS rules.",
   "keywords": [
     "metalsmith",
     "metalsmith-plugin",
@@ -14,8 +14,7 @@
   "license": "GPL-3.0-or-later",
   "author": "Christian Emmer",
   "files": [
-    "lib/index.js",
-    "lib/dummy.css"
+    "lib/index.js"
   ],
   "main": "lib/index.js",
   "repository": {
